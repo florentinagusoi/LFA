@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521748016 source:d:\facultate\an i\sem ii\alggrafuri\lfa_lab1\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
